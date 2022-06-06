@@ -14,7 +14,7 @@ Also, determine the optimal value of lambda for ridge and lasso regression.*
 You are required to model the price of houses with the available independent variables. This model will then be used by the management to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
 
 ## Conclusions
-After creating model in both Ridge and Lasso we can see that the r2_scores are almost same for both of them but as lasso will penalize more on the dataset and can also help in feature elemination i am goint to consider that as my final model.
+After creating model in both Ridge and Lasso we can see that the r2_scores are almost same for both of them but as lasso will penalize more on the dataset and can also help in feature elimination. I am going to consider that as my final model.
 After compairing both the model we can see that the below Features are best explaining the DataSet.
 
 `Best alpha value for Lasso : {'alpha': 0.001}`<br>
